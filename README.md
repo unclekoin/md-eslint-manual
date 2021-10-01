@@ -1,5 +1,6 @@
 # ESLint manual
-[Getting Started with ESLint](https://eslint.org/docs/user-guide/getting-started)
+* [Getting Started with ESLint](https://eslint.org/docs/user-guide/getting-started)
+* [Setup ESLINT and PRETTIER in React app](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b)
 ### Start
 ```shell
 > npm install eslint -g
